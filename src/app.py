@@ -39,7 +39,6 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
-    ipants": ["john@mergington.edu", "olivia@mergington.edu"]
         },
         "Basketball": {
             "description": "Team sport focusing on basketball skills and competitions",
@@ -78,7 +77,7 @@ activities = {
             "participants": ["ethan@mergington.edu"]
         }
     }
-}
+
 
 
 @app.get("/")
